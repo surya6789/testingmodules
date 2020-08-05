@@ -1,0 +1,4 @@
+variable "vpcname" {
+    default ="MyTestVPC"
+    
+}
